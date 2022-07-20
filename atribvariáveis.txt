@@ -1,0 +1,5 @@
+nome_da_variavel="carol"
+var=5555
+varialvelst=$nome_da_variavel
+Pbb=$$
+10=1

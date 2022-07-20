@@ -1,0 +1,7 @@
+if [ valor -gt valor ];
+comando;
+elif [valor -eq valor];
+comando;
+else
+comando;
+fi
